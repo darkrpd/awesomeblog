@@ -38,10 +38,11 @@ kramdown:
     css_class: highlight
 sass:
   style: expanded
-gems:
+plugins:
 - jekyll-sitemap
+- jekyll-paginate
 - jekyll-feed
-- jekyll-admin
+- jekyll-admin 
 exclude:
 - LICENSE
 - README.md

@@ -6,7 +6,7 @@ layout: page
 
 # Hakkında
 
-Yazılım geliştirici, oyuncu, handheld konsol koleksiyoncusu, kıdemli vaper ve hobi elektronikçi.
+Yazılım geliştirici, oyuncu, handheld konsol koleksiyoncusu ve hobi elektronikçi.
 
 ### Daha fazla bilgi için:
 
