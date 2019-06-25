@@ -40,7 +40,6 @@ sass:
   style: expanded
 plugins:
 - jekyll-sitemap
-- jekyll-paginate
 - jekyll-feed
 - jekyll-admin 
 exclude:
